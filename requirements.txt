@@ -7,3 +7,4 @@ seaborn
 textblob
 nltk
 plotly
+tensorflow
